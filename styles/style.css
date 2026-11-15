@@ -350,6 +350,10 @@
 }
 
 @media (min-width: 1024px) {
+  .page {
+    height: 5008px;
+  }
+  
   .header__theme-menu-list {
     position: absolute;
     inset-block-start: 20px;
