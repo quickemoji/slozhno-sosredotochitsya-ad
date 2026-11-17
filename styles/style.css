@@ -274,8 +274,6 @@
 }
 
 @media (min-width: 768px) {
-  /* Шапка */
-
   .header__theme-menu {
     display: flex;
     justify-content: flex-end;
@@ -342,8 +340,6 @@
 }
 
 @media (width < 768px) {
-  /* Шапка */
-
   .header {
     padding: 10px;
   }
@@ -440,10 +436,6 @@
     margin: 10px;
   }
 }
-
-/* ==============================
-   Большие экраны
-   ============================== */
 
 @media (min-width: 1024px) {
   .page .header__theme-menu-list {
